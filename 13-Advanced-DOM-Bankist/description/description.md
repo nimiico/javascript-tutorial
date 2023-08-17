@@ -189,7 +189,7 @@
     e.returnValue = '';
   });
 
-## Load JavaScript on HTML
+ ## Load JavaScript on HTML
 
 - inspect >> network # to see load time
 
